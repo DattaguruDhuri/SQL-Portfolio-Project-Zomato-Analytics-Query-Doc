@@ -1,1 +1,2 @@
-# SQL-Portfolio-Project-Zomato-Analytics-Query-Doc
+# SQL_Portfolio_Project_Zomato_Analytics_Query_Doc
+Using SQL Server Management Studio (SSMS)
